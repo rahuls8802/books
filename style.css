@@ -251,7 +251,7 @@ section {
   cursor: pointer;
 }
 .home {
-  background: url(../image/banner-bg.jpg) no-repeat;
+  background: url(banner-bg.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -391,7 +391,7 @@ section {
   color: #fff;
 }
 .newsletter {
-  background: url(../image/letter-bg.jpg) no-repeat;
+  background: url(letter-bg.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
